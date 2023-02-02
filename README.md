@@ -1,4 +1,4 @@
-# Devellop Laabs: Teste prático para Frontend Javascript Developer
+# Devellop Labs: Teste prático para Frontend Javascript Developer
 
 Este é o teste usado por nós aqui da [Devellop Labs](http://www.devellop.com.br) para avaliar tecnicamente os candidatos a nossas vagas de Frontend. Se você estiver participando de um processo seletivo para nossa equipe, certamente em algum momento receberá este link, mas caso você tenha chego aqui "por acaso", sinta-se convidado a desenvolver nosso teste e enviar uma mensagem para nós no e-mail `rh@devellop.com.br`. 
 
@@ -6,7 +6,7 @@ Este é o teste usado por nós aqui da [Devellop Labs](http://www.devellop.com.b
 
 Você deverá criar um `fork` deste projeto, e desenvolver em cima do seu fork. Use o *README* principal do seu repositório para nos contar como foi resolver seu teste, as decisões tomadas, como você organizou e separou seu código, e principalmente as instruções de como rodar seu projeto.
 
-Nós não definimos um tempo limite para resolução deste teste, o que vale para nós e o resultado final e a evolução da criação do projeto até se atingir este resultado, mas acreditamos que este desafio pode ser resolvido em cerca de 6 horas de codificação.
+Nós não definimos um tempo limite para resolução deste teste, o que vale para nós e o resultado final e a evolução da criação do projeto até se atingir este resultado, mas acreditamos que este desafio pode ser resolvido em cerca de 10 horas de codificação.
 
 ## O desafio
 
